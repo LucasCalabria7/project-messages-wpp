@@ -7,9 +7,9 @@
   
   # Tecnologias
   
-  ##HTML
+  ###HTML
   ###
-  ##CSS
+  ###CSS
   ###
   ###JavaScript
   
