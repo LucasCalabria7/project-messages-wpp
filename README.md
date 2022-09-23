@@ -6,12 +6,12 @@
     Se o usuário já tiver o App do WhatsApp instalado; será redirecionado para a conversa diretamente, a partir daí é só clicar para enviar e iniciar um chat com seus amigos ou familiares.
   
   # Tecnologias
-  
-  ###HTML
-  ###
-  ###CSS
-  ###
-  ###JavaScript
+###
+## HTML
+###
+## CSS
+###
+## JavaScript
   
   
   
